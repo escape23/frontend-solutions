@@ -6,3 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
     })
     .catch((error) => console.error("Error loading header:", error));
 });
+
+// export * as headerMs from "/js/header.js";
+
+// import "/js/header";
