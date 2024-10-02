@@ -3,7 +3,7 @@
 ### To run the project
 
 ```sh
-cd frontend
+cd frontend-solutions
 ```
 
 ```sh
